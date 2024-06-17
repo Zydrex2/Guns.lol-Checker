@@ -1,6 +1,7 @@
 Simple script to check usernames for guns.lol (DISCONTINUED)
 
 Note: This Checker is a bit older so if guns.lol decides to change their API and status  codes , feel free to recode but credit me!
+Edit : This checker is no longer working since it only checks if the response is good (200) or not, and guns.lol always return 200 code because if the username exists, it will show the profile of the person who already took the username, and if it doesn't, it'll ask you if you want to take it.
 
 ### <p align="center">🕷️ oqop 🕷️</p>
 <p align= "center">
